@@ -17,7 +17,7 @@ npn i
 
 ```
 
-npn start dev
+npm start dev
 
 ```
 
